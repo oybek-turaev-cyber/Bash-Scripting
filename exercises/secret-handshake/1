@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+main () {
+
+    binary=$(dc -e "$1 2op")
+    echo "$binary"
+
+    for i in ${#binary}
+    do
+        echo "hello $i"
+    done
+
+
+}
+
+main "$@"

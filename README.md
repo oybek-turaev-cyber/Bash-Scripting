@@ -5,11 +5,10 @@ This space reflects my commitment to mastering shell scripting fundamentals and 
 
 ---
 
-## 🚀 Purpose
+## 🚀 Purpose & Goals:
 
-- Build a strong foundation in **shell scripting**
-- Improve problem-solving skills through **real coding challenges**
-- Prepare for more advanced scripting tasks in **cybersecurity**, **automation**, and **CTFs**
+- **25 Practical Exercises** completed in **shell scripting**
+- Advanced scripting tasks for **automation**, and **CTFs**
 - Practice **clean code**, **modular thinking**, and **debugging**
 
 ---
